@@ -34,7 +34,7 @@ To run run the main script:
 run "roslaunch fejemis\_vision main.launch"
 ```
 
-To run any of the test scripts:
+To run any of the test scripts (these do not need the topics above to be published since they use images saved in the folder with the code):
 ```
 roslaunch fejemis\_vision cable\_test.launch
 roslaunch fejemis\_vision people\_test.launch
