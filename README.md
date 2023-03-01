@@ -1,6 +1,19 @@
 # fejemis
 Masters thesis repository
 
+3 detectors:
+
+cable detection:
+![image](https://user-images.githubusercontent.com/62695168/222127079-7999edd4-04d0-43c2-bdbc-c21c1be7e41e.png)
+
+people detection + tracking:
+
+![image_person_1](https://user-images.githubusercontent.com/62695168/222127316-6a0d7e1d-10e3-48f4-969f-1573ae5110e5.jpg)
+
+netting detection:
+
+![New_net_test_image2](https://user-images.githubusercontent.com/62695168/222127906-71d47e27-697c-4fd2-83b6-13d644883a3e.png)
+
 The system is tested on Ubuntu 20.04.5 LTS with ROS Noetic.
 
 The following packages are needed to run the main script:
