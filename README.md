@@ -4,6 +4,7 @@ Masters thesis repository
 3 detectors:
 
 cable detection:
+
 ![image](https://user-images.githubusercontent.com/62695168/222127079-7999edd4-04d0-43c2-bdbc-c21c1be7e41e.png)
 
 people detection + tracking:
